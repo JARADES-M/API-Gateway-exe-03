@@ -10,6 +10,6 @@ public class Fallback {
 
     @RequestMapping("/fallback")
     public Mono<String> fallback() {
-        return Mono.just("fallback");
+        return Mono.just("Erro Em Execução");
     }
 }
