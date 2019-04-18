@@ -5,7 +5,11 @@
 
 URL Base
 ```
-$ curl http://localhost
+http://localhost
 ```
+
+Primeira API configurada:
+
+[Livraria Virtual](https://github.com/bvaugusto/arquitetura-software/tree/master/aula02)
 
 
